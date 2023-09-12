@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Abdul Gara
-- 🌱 I’m currently learning machine learning and python
-- I made this to track my learning and progress in data science and to also build a portfolio 
-- 📫 How to reach me abdulgara45@googlemail.com
+- Hi, I’m Abdul Gara
+- I’m currently trying to improve my skills in data structures, algorithms, and deep learning
+- I made this to track my learning and progress 
+- How to reach me abdulgara45@googlemail.com
 
 <!---
 abz1997/abz1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
